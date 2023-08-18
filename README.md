@@ -1,4 +1,4 @@
-![logo](https://github.com/poojagupta2473/portfolio-project-/blob/master/pooja.png)
+![logo](https://github.com/poojagupta2473/portfolio-project-/blob/master/Pooja%20Gupta.png)
 # portfolio-project-
 <h1 align="center">Hi 👋, I'm Pooja Gupta</h1>
 
